@@ -1,0 +1,23 @@
+{
+  "name": "kiln-sitter",
+  "version": "1.0.0",
+  "description": "web server for control and diagnostic of kiln",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thom Blake <thethomblake@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "c3": "^0.4.11"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomblake/kiln-sitter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thomblake/kiln-sitter/issues"
+  },
+  "homepage": "https://github.com/thomblake/kiln-sitter#readme"
+}
